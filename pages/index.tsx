@@ -1,11 +1,7 @@
-const Index = (props: unknown) => {
+function Index(props: unknown) {
   console.log(props);
 
-  return (
-    <>
-      <div>text</div>
-    </>
-  );
-};
+  return <div>text</div>;
+}
 
 export default Index;

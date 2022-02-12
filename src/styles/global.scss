@@ -1,6 +1,6 @@
-@import '../../node_modules/normalize.css/normalize.css';
+$primary-color: #202124;
 
 body {
-    background-color: #202124;
+    background-color: $primary-color;
     color: #fff;
 }
